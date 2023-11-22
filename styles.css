@@ -1,0 +1,14 @@
+/* Các kiểu dáng cho trang web của bạn */
+h1 {
+  text-align: center;
+}
+
+.blog-form {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.blog-posts {
+  width: 80%;
+  margin: 20px auto;
+}
